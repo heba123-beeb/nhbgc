@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://reliable-pie-431218.netlify.app/sitemap.xml
